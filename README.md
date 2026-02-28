@@ -4,9 +4,8 @@
 
 I turn messy, real-world data into production-ready machine learning systems. My edge? A business background that helps me translate technical solutions into stakeholder value—not just optimize metrics.
 
-🎓 **Master's in Business Analytics** @ Sunway University (Graduating January 2026)  
+🎓 **Master's in Business Analytics** @ Sunway University
 🌏 **Seeking roles in:** Malaysia | Singapore | Vietnam  
-🚀 **Available:** January 2026
 
 ---
 
@@ -19,7 +18,6 @@ I didn't start in computer science—I came from **International Business**, tau
 ## 🚀 What I'm Working On
 
 🏠 **Property Price Prediction System** – 97% accurate ML model for Malaysia's Klang Valley using geospatial features and DBSCAN clustering  
-☁️ **AWS Cloud Certifications** – Expanding MLOps capabilities for scalable model deployment  
 📱 **Building in Public** – Sharing my data science journey on [LinkedIn](https://www.linkedin.com/in/phan-%C4%91%E1%BB%A3c-duy-anh/)
 
 ---
